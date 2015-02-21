@@ -14,16 +14,10 @@
  http://www.yelp.com/developers/getting_started/api_access
  */
 //#warning Fill in the API keys below with your developer v2 keys.
-static NSString * const kConsumerKey       = @"D2DRxiw-ubhY7SgquSnlzQ";
-static NSString * const kConsumerSecret    = @"keqNOD8Uv_SnQx-HYFk2A_c4dhU";
-static NSString * const kToken             = @"xwL3tojpFEnjsXaXhvwOaIvyWpEkeVHK";
-static NSString * const kTokenSecret       = @"J_Geh9wJ5HjCjMMr8A7ZVS_TLu4";
-
-//Consumer Key	D2DRxiw-ubhY7SgquSnlzQ
-//Consumer Secret	keqNOD8Uv_SnQx-HYFk2A_c4dhU
-//Token	xwL3tojpFEnjsXaXhvwOaIvyWpEkeVHK
-//Token Secret	J_Geh9wJ5HjCjMMr8A7ZVS_TLu4
-
+static NSString * const kConsumerKey       = @"";
+static NSString * const kConsumerSecret    = @"";
+static NSString * const kToken             = @"";
+static NSString * const kTokenSecret       = @"";
 
 @implementation NSURLRequest (OAuth)
 
