@@ -6,8 +6,8 @@
 //  Copyright (c) 2013 Aditya. All rights reserved.
 //
 
-#import <SenTestingKit/SenTestingKit.h>
+#import <XCTest/XCTest.h>
 
-@interface MapViewTests : SenTestCase
+@interface MapViewTests : XCTestCase
 
 @end
